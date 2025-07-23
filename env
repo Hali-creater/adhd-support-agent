@@ -1,0 +1,5 @@
+OPENAI_API_KEY=your-openai-key-here
+GOOGLE_TTS_KEY=your-tts-key-here
+CALENDAR_API_KEY=your-calendar-key-here
+GOOGLE_TRANSLATE_KEY=your-translate-key-here
+WHISPER_API_KEY=your-whisper-key-here

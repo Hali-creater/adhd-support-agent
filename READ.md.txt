@@ -1,0 +1,17 @@
+# ADHD AI Agent
+
+This project is an AI agent designed to assist individuals with ADHD by providing various features such as behavioral coaching, focus tools, progress tracking, gamified training, resource sharing, and localization support.
+
+## Features
+
+1. Behavioral Coaching
+2. Focus and Time Management Tools
+3. Progress Tracking with Adaptive Feedback
+4. Gamified Attention Training Modules
+5. Education and Resource Sharing
+6. Language and Localization Support
+7. Platform: Web and Mobile
+
+## Installation
+
+To run this project, install the required packages:
